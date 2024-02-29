@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spam Email Classification Using TensorFlow
 
 ## Introduction
@@ -32,3 +33,6 @@ The project structure is organized as follows:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
+# spam-email-classification-tensorflow-
+>>>>>>> 6c7e88d94e451f4521ec9f67baa42e13388c3618
